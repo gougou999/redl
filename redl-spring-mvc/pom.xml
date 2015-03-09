@@ -18,7 +18,7 @@
   	<dependency>
   		<groupId>ene.redl.spring</groupId>
   		<artifactId>redl-spring-service</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>  
+  		<version>0.0.1-SNAPSHOT</version>    
   	</dependency>
   	
   	<dependency>
